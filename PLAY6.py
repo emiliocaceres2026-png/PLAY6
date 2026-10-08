@@ -10,13 +10,7 @@ from selenium.webdriver.common.keys import Keys
 from webdriver_manager.firefox import GeckoDriverManager
 
 LINKS = [
-    "https://casino.virtualsoft.tech/game/play/?gameid=203831&mode=real&provider=undefined&lan=es&partnerid=8&token=0P13761446Por1c33ls2c9uco1a36v&balance=0&currency=USD&userid=13712203&isMobile=false",
-    "https://casino.virtualsoft.tech/game/play/?gameid=203831&mode=real&provider=undefined&lan=es&partnerid=8&token=0P13761476Pmlxbdgo3uuyjaegidm7&balance=0&currency=USD&userid=13712233&isMobile=false",
-    "https://casino.virtualsoft.tech/game/play/?gameid=203831&mode=real&provider=undefined&lan=es&partnerid=8&token=0P13761510Pryve61l2ajnlylloz9j&balance=0&currency=USD&userid=13712267&isMobile=false",
-    "https://casino.virtualsoft.tech/game/play/?gameid=203831&mode=real&provider=undefined&lan=es&partnerid=8&token=0P13761637Pruf0m8mfpirck84zhu0&balance=0&currency=USD&userid=13712394&isMobile=false",
-    "https://casino.virtualsoft.tech/game/play/?gameid=203831&mode=real&provider=undefined&lan=es&partnerid=8&token=0P13761669Ph68udhn1if253s50w5n&balance=0&currency=USD&userid=13712427&isMobile=false",
-    "https://casino.virtualsoft.tech/game/play/?gameid=203831&mode=real&provider=undefined&lan=es&partnerid=8&token=0P13761697Pu8viqkr6ue02iq1jm02&balance=0&currency=USD&userid=13712456&isMobile=false",
-    "https://casino.virtualsoft.tech/game/play/?gameid=203831&mode=real&provider=undefined&lan=es&partnerid=8&token=0P13761724P122vlzgtb257nap9jfu&balance=0&currency=USD&userid=13712484&isMobile=false"
+    "https://casino.virtualsoft.tech/game/play/?gameid=203831&mode=real&provider=undefined&lan=es&partnerid=8&token=0P9020893P7iu7f2fqraapqow3fzri&balance=0&currency=USD&userid=8943871&isMobile=false"
 ]
 
 PLANTILLA_BASE = "Quieres Ganar Mas de 2 mil en 45 minutoｓ Escribeme al Whatsapp⚡ ✅𝐎𝟗𝟔𝟖𝟖𝟑𝟐𝟑𝟎𝟎✅⚓𝚃𝙴L𝙴𝙶𝚁AM😚✅𝙰𝚅𝙸𝙰𝚃𝙾𝚁𝙿𝙺𝙰✅Sin 𝙿agos adelantadoss⚓⚡⛳⛺➕➗VAR_3"
